@@ -1,2 +1,4 @@
-/lastfm-dataset-360K
+lastfm-dataset-360K/
 janelleek_lastfm_data.txt
+.ipynb_checkpoints/
+.DS_Store
